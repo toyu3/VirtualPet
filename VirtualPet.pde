@@ -5,5 +5,5 @@ void setup(){
 }
 void draw(){
   //more of your code here
-  ellipse(250,250,250,250);
+  ellipse(250,300,250,250);
 }
