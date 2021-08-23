@@ -1,6 +1,6 @@
 
 void setup(){
-  //some of your code here
+  //canvas
 }
 void draw(){
   //more of your code here
