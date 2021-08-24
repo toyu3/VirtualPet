@@ -5,5 +5,5 @@ void setup(){
 }
 void draw(){
   //more of your code here
-  rect(120, 80, 220, 220);
+  triangle(120, 300, 232, 80, 344, 300);
 }
