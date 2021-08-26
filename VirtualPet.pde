@@ -1,6 +1,6 @@
 void setup(){
   //canvas
-  size(1000,1000);
+  size(650,650);
 }
 void draw(){
   //set up
