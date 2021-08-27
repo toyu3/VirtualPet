@@ -31,8 +31,8 @@ void draw(){
   fill(255,255,255); //white
   //eye
   ellipse(330,70,50,50);
-  ellipse(36,36,36); //black
-  ellipse(330,70,20);
-  ellipse(255,255,255); //white
-  ellipse(325,65,15);
+  fill(36,36,36); //black
+  ellipse(330,70,20,20);
+  fill(255,255,255); //white
+  ellipse(325,65,15,15);
 }
