@@ -4,7 +4,7 @@ void setup(){
 }
 void draw(){
   //set up
-   noStroke();
+  noStroke();
   //body
   fill(255,255,255); //white
   triangle(200,300,250,500,300,225);
@@ -28,8 +28,7 @@ void draw(){
   triangle(260,100,400,100,330,50);
   triangle(250,550,300,580,270,600);
   triangle(250,550,270,600,180,580);
-  
-  //eyes
+  //eye
   fill(255,255,255); //white
   circle(330,70,50);
   fill(36,36,36); //black
