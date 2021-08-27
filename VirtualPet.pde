@@ -29,9 +29,10 @@ void draw(){
   triangle(250,550,300,580,270,600);
   triangle(250,550,270,600,180,580);
   fill(255,255,255); //white
-  circle(330,70,50);
-  fill(36,36,36); //black
-  circle(330,70,20);
-  fill(255,255,255); //white
-  circle(325,65,15);
+  //eye
+  ellipse(330,70,50,50);
+  ellipse(36,36,36); //black
+  ellipse(330,70,20);
+  ellipse(255,255,255); //white
+  ellipse(325,65,15);
 }
